@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cal Sans Local';
+    src: url('CalSans-Regular.woff2') format('woff2'),
+        url('CalSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

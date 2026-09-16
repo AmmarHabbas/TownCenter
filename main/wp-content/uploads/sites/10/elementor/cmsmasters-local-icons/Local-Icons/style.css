@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'Local-Icons';
+  src:  url('fonts/Local-Icons.eot?5misn9');
+  src:  url('fonts/Local-Icons.eot?5misn9#iefix') format('embedded-opentype'),
+    url('fonts/Local-Icons.ttf?5misn9') format('truetype'),
+    url('fonts/Local-Icons.woff?5misn9') format('woff'),
+    url('fonts/Local-Icons.svg?5misn9#Local-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="cmsms-demo-icon-"], [class*=" cmsms-demo-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Local-Icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cmsms-demo-icon-baby-carriage:before {
+  content: "\e902";
+}
+.cmsms-demo-icon-arrow:before {
+  content: "\e903";
+}
+.cmsms-demo-icon-arrow-left:before {
+  content: "\e904";
+}
+.cmsms-demo-icon-arrow-right:before {
+  content: "\e905";
+}
+.cmsms-demo-icon-atm-business-cash:before {
+  content: "\e906";
+}
+.cmsms-demo-icon-calendar:before {
+  content: "\e907";
+}
+.cmsms-demo-icon-cart-shopping:before {
+  content: "\e908";
+}
+.cmsms-demo-icon-charging-battery:before {
+  content: "\e909";
+}
+.cmsms-demo-icon-check:before {
+  content: "\e90a";
+}
+.cmsms-demo-icon-circle:before {
+  content: "\e90b";
+}
+.cmsms-demo-icon-clock:before {
+  content: "\e90c";
+}
+.cmsms-demo-icon-close:before {
+  content: "\e90d";
+}
+.cmsms-demo-icon-contactless:before {
+  content: "\e90e";
+}
+.cmsms-demo-icon-date-calendar:before {
+  content: "\e90f";
+}
+.cmsms-demo-icon-exchange-currency:before {
+  content: "\e910";
+}
+.cmsms-demo-icon-first-aid:before {
+  content: "\e911";
+}
+.cmsms-demo-icon-laundry-service:before {
+  content: "\e912";
+}
+.cmsms-demo-icon-location:before {
+  content: "\e913";
+}
+.cmsms-demo-icon-menu:before {
+  content: "\e914";
+}
+.cmsms-demo-icon-office-chair:before {
+  content: "\e916";
+}
+.cmsms-demo-icon-parking:before {
+  content: "\e917";
+}
+.cmsms-demo-icon-search:before {
+  content: "\e918";
+}
+.cmsms-demo-icon-wheelchair:before {
+  content: "\e919";
+}
+.cmsms-demo-icon-wi-fi:before {
+  content: "\e91a";
+}
+.cmsms-demo-icon-work:before {
+  content: "\e91b";
+}
+.cmsms-demo-icon-arrow-down:before {
+  content: "\e900";
+}
+.cmsms-demo-icon-arrow-up:before {
+  content: "\e901";
+}
+.cmsms-demo-icon-mail:before {
+  content: "\e915";
+}
